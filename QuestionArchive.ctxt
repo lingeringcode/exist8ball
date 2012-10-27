@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String[]\ readQuestion()
+comment0.text=\n\ The\ readQuestion\ method\n\ \n\ @return\ \ \ \ \ String\ readQues\ -\ \n
+comment1.params=
+comment1.target=java.lang.String\ randomQuestion()
+comment1.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+comment2.params=input
+comment2.target=void\ writeQuestion(java.lang.String)
+comment2.text=\n\ The\ writeQuestion\ method\ takes\ the\ input\ from\ the\ UI\ to\ append\ to\ the\ quesArchive.txt\ file.\n\ \n\ @param\ \ \ \ \ String\ readQues\n
+numComments=3
