@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.params=input
-comment0.target=int\ parseQuestion(java.lang.String)
-comment0.text=\n\ The\ parseQuestion\ method\ parses\ the\ input\ from\ the\ MagicEightBall\ to\ extract\ the\ type\ of\ question\n\ for\ the\ program\ to\ return\ the\ proper\ random\ response\ from\ the\ AnswerBank.\n\ \n\ @param\ \ \ String\ input\ \ \ \ \ \ \ \ a\ string\ from\ the\ scanner;\ user\ asking\ a\ question\n\ @return\ \ int\ quesToAnswer\ \ \ \ int\ returned\ for\ \n
-numComments=1
